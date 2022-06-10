@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hsp30java.iml" filepath="$PROJECT_DIR$/hsp30java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoJavaWeb.iml" filepath="$PROJECT_DIR$/demoJavaWeb.iml" />
     </modules>
   </component>
 </project>
